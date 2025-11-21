@@ -16,6 +16,7 @@ uv add datakit-lite
 
 Or add to pyproject.toml dependencies.
 
-## Development
+## Contributing
 
-See [DEVELOPER.md](./DEVELOPER.md)
+- See [CONTRIBUTING.md](./CONTRIBUTING.md)
+- See [DEVELOPER.md](./DEVELOPER.md)
