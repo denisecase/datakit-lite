@@ -30,5 +30,5 @@ and this project adheres to **[Semantic Versioning](https://semver.org/spec/v2.0
   Tag the repository with `vX.Y.Z` to publish a release.
 - Documentation and badges are updated per tag and aliased to **latest**.
 
-[Unreleased]: https://github.com/denisecase/civic-transparency-py-sdk/compare/v0.0.1...HEAD
-[0.0.1]: https://github.com/denisecase/civic-transparency-py-sdk/releases/tag/v0.0.1
+[Unreleased]: https://github.com/denisecase/datakit-lite/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/denisecase/datakit-lite/releases/tag/v0.0.1

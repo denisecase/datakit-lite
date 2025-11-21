@@ -61,7 +61,7 @@ docs = [  # Add all to deptry ignores
 [project.urls]
 "Documentation" = "https://denisecase.github.io/datakit-lite/"
 "Homepage" = "https://github.com/denisecase/datakit-lite"
-"Issues" = "https://github.com/denisecase/civicc-lib-core/issues"
+"Issues" = "https://github.com/denisecase/datakit-lite/issues"
 "Source" = "https://github.com/denisecase/datakit-lite"
 
 [project.scripts]
